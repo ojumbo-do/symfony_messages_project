@@ -18,7 +18,7 @@ This is a simple messaging application built using **Symfony** and **MySQL**. Th
 ## Requirements
 
 - **Symfony 6.x** or higher
-- **PHP 8.4** or higher
+- **PHP 8.2** or higher
 - **MySQL** for the database
 - **Composer** for dependency management
 
