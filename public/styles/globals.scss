@@ -1,0 +1,17 @@
+// customize some Bootstrap variables
+$primary: darken(#428bca, 20%);
+$screen: 50dvh;
+
+// the ~ allows you to reference things in node_modules
+@import "~bootstrap/scss/bootstrap";
+
+body {
+}
+
+main {
+  max-width: 1280px;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+}
